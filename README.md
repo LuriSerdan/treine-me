@@ -14,7 +14,7 @@
   <img alt="projeto treine.me" src="./images/readme.png" width="100%">
 </p>
 
-## ?? Tecnologias
+## ðŸš€ Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -22,15 +22,15 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 - Figma
 
-## ?? Projeto
+## ðŸ’» Projeto
 
-Neste projeto Rocketseat foi feito uma Land page com o tema "Treine.me" para desktop, com o intuito de estudar fundamentos do HTML e CSS, onde, foi desafiado a reprodução de um layout pelo figma com os conceitos aprendidos em aula, além de, uma resolução de código quebrado para testar nossos conhecimentos.
+Neste projeto Rocketseat foi feito uma Land page com o tema "Treine.me" para desktop, com o intuito de estudar fundamentos do HTML e CSS, onde, foi desafiado a reproduÃ§Ã£o de um layout pelo figma com os conceitos aprendidos em aula, alÃ©m de, uma resoluÃ§Ã£o de cÃ³digo quebrado para testar nossos conhecimentos.
 
 - [Acesse o projeto finalizado, online](https://luriserdan.github.io/treine-me/)
 
-## ?? Layout
+## ðŸ”– Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/XUE47DrWJkhBgLtLdN3YNP/Projeto01-Extra-(Copy)?type=design&node-id=17-16&mode=design&t=ccDTdsJdG60LMxtL-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+VocÃª pode visualizar o layout do projeto atravÃ©s [DESSE LINK](https://www.figma.com/file/XUE47DrWJkhBgLtLdN3YNP/Projeto01-Extra-(Copy)?type=design&node-id=17-16&mode=design&t=ccDTdsJdG60LMxtL-0). Ã‰ necessÃ¡rio ter conta no [Figma](https://figma.com) para acessÃ¡-lo.
 
 
-Feito com ? by Luri Serdan
+Feito com â™¥ by Luri Serdan
